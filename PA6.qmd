@@ -1,5 +1,6 @@
 ---
 title: "PA6"
+author: "Brandon Huynh & Matthew Hung"
 format: html
 editor: visual
 self-contained: true 
